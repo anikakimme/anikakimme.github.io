@@ -8,6 +8,7 @@ ul{
     width: 20%;
     padding: 0px;
     margin: 0px;
+    font-size: 20px; 
 }
 body {
     background-color:lightgrey;
