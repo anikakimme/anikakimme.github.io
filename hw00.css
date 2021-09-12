@@ -1,4 +1,5 @@
 .menu {
+    color:black;
     background-color: rgb(85, 147, 228);
     list-style-type:none;
     display: inline-block;
@@ -32,6 +33,3 @@ h1{
 table, th, td {
     border:1px solid black;
   }
-.ul{
-    color: black;
-}
