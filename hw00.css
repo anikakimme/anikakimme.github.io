@@ -1,10 +1,8 @@
 ul{
     color:darkblue;
-    background-color: rgb(85, 147, 228);
 }
 .menu {
-    background-color: purple;
-    color: gold;
+    background-color: rgb(85, 147, 228));
     list-style-type:none;
     display: inline-block;
     width: 20%;
