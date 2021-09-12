@@ -1,4 +1,13 @@
-li{
-    color: red;
-    background-color: aquamarine;
+ul{
+    color:darkblue;
+    background-color: rgb(85, 147, 228);
+}
+.menu {
+    background-color: purple;
+    color: gold;
+    list-style-type:none;
+    display: inline-block;
+    width: 20%;
+    padding: 0px;
+    margin: 0px;
 }
