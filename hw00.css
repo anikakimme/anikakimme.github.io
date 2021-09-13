@@ -51,5 +51,11 @@ table, th, td {
     }
   }
   #S {
+      font-weight: bolder;
+  }
+  #SB {
+      font-weight: bold;
+  }
+  #NB {
       font-weight: bold;
   }
