@@ -45,3 +45,8 @@ table, th, td {
       background-color: lightcyan;
     }
   }
+  @media only screen and (max-height: 600px) {
+    body {
+      background-color: lightcyan;
+    }
+  }
