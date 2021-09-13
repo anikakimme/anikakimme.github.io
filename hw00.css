@@ -40,8 +40,8 @@ table, th, td {
 #North {
     color: blue
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
     body {
-      background-color: green;
+      background-color: lightcyan;
     }
   }
