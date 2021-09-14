@@ -72,5 +72,14 @@ table, th, td {
       font-weight: 800px
   }
   .Div3 {
-      font-size: larger;
+      background-color: grey;
+  }
+  .Div4 {
+    display: block;
+    font-size: 1em;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;;
   }
