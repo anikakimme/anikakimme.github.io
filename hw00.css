@@ -76,7 +76,7 @@ table, th, td {
   }
   .Div4 {
     display: block;
-    font-size: 1em;
+    font-size: 1.2em;
     margin-top: 1.33em;
     margin-bottom: 1.33em;
     margin-left: 0;
@@ -88,4 +88,9 @@ table, th, td {
   .Div6 {
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
-  
+  .Div7 {
+      display: block;
+  }  
+  .Div8 {
+    display: block;
+  }
