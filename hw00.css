@@ -65,9 +65,12 @@ table, th, td {
   #CMC {
       color: maroon;
   }
-  .Div {
+  .Div1 {
       color: teal;
   }
   .Div2 {
       font-weight: 800px
+  }
+  .Div3 {
+      font-size: larger;
   }
