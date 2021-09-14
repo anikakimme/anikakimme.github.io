@@ -94,6 +94,9 @@ table, th, td {
   .Div8 {
     display: block;
   }
+  .Div9 {
+      text-align: center;
+  }
   .Div11 {
       text-align: center;
   }
