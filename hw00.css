@@ -69,7 +69,7 @@ table, th, td {
       color: teal;
   }
   .Div2 {
-      background-color: hotpink;
+      font-size: x-large;
   }
   .Div3 {
       color: grey;
@@ -86,5 +86,5 @@ table, th, td {
       display: block;
   }
   .Div6 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
