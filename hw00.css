@@ -72,7 +72,7 @@ table, th, td {
       background-color: hotpink;
   }
   .Div3 {
-      background-color: grey;
+      color: grey;
   }
   .Div4 {
     display: block;
@@ -81,10 +81,9 @@ table, th, td {
     margin-bottom: 1.33em;
     margin-left: 0;
     margin-right: 0;
-    font-weight: bold;;
   }
   .Div5 {
-
+      display: block;
   }
   .Div6 {
 
