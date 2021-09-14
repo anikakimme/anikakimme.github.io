@@ -69,7 +69,7 @@ table, th, td {
       color: teal;
   }
   .Div2 {
-      font-weight: 800px
+      background-color: hotpink;
   }
   .Div3 {
       background-color: grey;
@@ -82,4 +82,10 @@ table, th, td {
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;;
+  }
+  .Div5 {
+
+  }
+  .Div6 {
+
   }
